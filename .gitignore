@@ -1,0 +1,23 @@
+# Tasks App
+
+A simple tasks management application built for a 4-hour intern assignment.
+
+## Quick Start
+
+See the main [README.md](./README.md) for detailed setup instructions.
+
+### Backend
+```bash
+cd backend
+npm install
+npm start
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+
+Then open http://localhost:3000
